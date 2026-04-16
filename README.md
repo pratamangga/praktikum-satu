@@ -1,4 +1,4 @@
-# Rekomendasi HP Sederhana
+# Sistem Rekomendasi HP Sederhana
 
 Praktikum 1 Ssitem Cerdas
 
