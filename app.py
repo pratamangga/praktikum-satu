@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as s
 
 st.title("Sistem Rekomendasi HP Sederhana")
 st.write("Sistem Cerdas menggunakan Streamlit | Angga Yoga Pratama - 2313010605")
