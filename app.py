@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Sistem Rekomendasi HP Sederhana")
-st.write("Sistem Cerdas menggunakan Streamlit | Angga Yoga Pratama - 2313010605")
+st.write("Praktikum 1 Sistem Cerdas | Angga Yoga Pratama - 2313010605")
 
 # INPUT
 budget = st.selectbox(
