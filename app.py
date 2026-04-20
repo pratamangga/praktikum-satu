@@ -3,7 +3,6 @@ import streamlit as st
 st.title("Sistem Rekomendasi HP Sederhana")
 st.write("Praktikum 1 Sistem Cerdas | Angga Yoga Pratama - 2313010605")
 
-# INPUT
 budget = st.selectbox(
     "Pilih Budget:",
     ["< 2 Juta", "2 - 5 Juta", "> 5 Juta"]
@@ -14,7 +13,6 @@ kebutuhan = st.selectbox(
     ["Sosmed", "Gaming", "Fotografi"]
 )
 
-# BUTTON
 if st.button("Dapatkan Rekomendasi"):
 
     if budget == "< 2 Juta" and kebutuhan == "Sosmed":
