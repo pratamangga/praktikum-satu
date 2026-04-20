@@ -4,12 +4,12 @@ st.title("Sistem Rekomendasi HP Sederhana")
 st.write("Praktikum 1 Sistem Cerdas | Angga Yoga Pratama - 2313010605")
 
 budget = st.selectbox(
-    "Pilih Budget:",
+    "Pilih Budget :",
     ["< 2 Juta", "2 - 5 Juta", "> 5 Juta"]
 )
 
 kebutuhan = st.selectbox(
-    "Pilih Kebutuhan:",
+    "Pilih Kebutuhan :",
     ["Sosmed", "Gaming", "Fotografi"]
 )
 
